@@ -1,0 +1,4 @@
+(executable
+ (public_name LittleTown)
+ (name main)
+ (libraries LittleTown))
